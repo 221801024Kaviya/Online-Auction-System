@@ -1,0 +1,33 @@
+.auction-details-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .auction-image {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    background: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .closed-text {
+    color: red;
+    font-weight: bold;
+  }
+  
